@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: yellow;
+    text-align: center;
+}
+h2 {
+    color: orangered;
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+.styleli {
+    color: yellow;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.stylevg {
+    color: orange;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: yellow;
+}
+.align-center {
+    text-align: center;
+    list-style-position: inside;
+}
