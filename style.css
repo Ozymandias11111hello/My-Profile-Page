@@ -36,3 +36,10 @@ a {
     text-align: center;
     list-style-position: inside;
 }
+.my-button {
+    background-color: orange;
+    color: maroon;
+    padding: 5px 5px;
+    border: 4px;
+    cursor: pointer;
+}
