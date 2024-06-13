@@ -43,3 +43,7 @@ a {
     border: 4px;
     cursor: pointer;
 }
+.images {
+    width: 300px;
+    height: auto;
+}
