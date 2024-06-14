@@ -37,6 +37,7 @@ body {
     padding: 5px 5px;
     border: 4px;
     cursor: pointer;
+    text-align: center;
 }
 .images {
     width: 300px;
@@ -50,4 +51,12 @@ body {
 }
 a {
     color: yellow;
+}
+
+.box {
+    border: 1px solid yellow;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    border-width: 10px;
 }
